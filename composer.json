@@ -1,0 +1,7 @@
+{
+    "name": "digitalpioneers/AmazonS3Bundle"
+    "require": {
+	# Ignore the plaintive urging to upgrade to 2.x
+	"amazonwebservices/aws-sdk-for-php": "1.6.2"
+    }
+}

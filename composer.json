@@ -4,11 +4,11 @@
     "require": {
 	"php": ">=5.3.2",
 	"amazonwebservices/aws-sdk-for-php": "1.6.2"
-    }
+    },
     "autoload": {
 	"psr-0": {
 	    "DigitalPioneers\\AmazonS3Bundle": ""
 	}
-    }
+    },
     "target-dir": "AmazonS3Bundle"
 }

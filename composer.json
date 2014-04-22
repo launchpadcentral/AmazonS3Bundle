@@ -6,8 +6,9 @@
 	"amazonwebservices/aws-sdk-for-php": "1.6.2"
     },
     "autoload": {
-	"psr-0": {
-	    "DigitalPioneers\\AmazonS3Bundle": ""
+	"psr-4": {
+	    "DigitalPioneers\\AmazonS3Bundle\\": ""
 	}
-    }
+    },
+    
 }
